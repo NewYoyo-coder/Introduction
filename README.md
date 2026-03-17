@@ -6,7 +6,7 @@
 
 - **Name: 이유경**
 - _Age: 25_
-- Job: AI Engineer
+- Desired Job: [AI Engineer] (https://www.google.com/search?q=ai+engineering)
   **ID: Yukyungofhufs**
 
 * git status
