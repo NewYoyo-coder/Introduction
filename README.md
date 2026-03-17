@@ -13,7 +13,7 @@
 * git diff
 * git add
 * git status
-* git commit
+* git commit -m "~~"
 * git log
 
 * To update Github itself, you must
