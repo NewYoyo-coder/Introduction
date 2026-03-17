@@ -9,9 +9,12 @@
 - Job: AI Engineer
   **ID: Yukyungofhufs**
 
-git status
-git diff
-git add
-git status
-git commit
-git log
+* git status
+* git diff
+* git add
+* git status
+* git commit
+* git log
+
+* To update Github itself, you must
+  git push origin main
