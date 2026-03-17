@@ -10,8 +10,7 @@
 - _Age: 25_
 - Desired Job: [AI Engineer] (https://www.google.com/search?q=ai+engineering)
 - Hobbies: Reading & watching animations
-- Things I like: Cats
-  **ID: Yukyungofhufs**
+- **Things I like: Cats**
 
 ---
 
