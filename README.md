@@ -28,9 +28,12 @@
 
 Accidental adding? /n
 
-1. check staged: git diff --staged
-2. commit stage에서 제거하려면, 즉, unadd하려면: git restore --staged
-   /n/n
-   To additionally add(head가 있는 지난 commit에 추가)/n
-   1. git commit --amend(전 commit 수정, 전 head 수정)
-   2. git commit --fixup HEAD(전 head 유지, 새로운 commit 생김)
+    1. check staged: git diff --staged
+    2. commit stage에서 제거하려면, 즉, unadd하려면: git restore --staged
+    /n/n
+
+To additionally add(head가 있는 지난 commit에 추가)/n
+(Head = 가장 최근 commit 가리키는 것)/n
+
+1.  git commit --amend(전 commit 수정, 전 head 수정)
+2.  git commit --fixup HEAD(전 head 유지, 새로운 commit 생김)
